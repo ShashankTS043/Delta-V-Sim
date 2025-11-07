@@ -4,3 +4,8 @@ __pycache__/
 venv/
 *.env
 .DS_Store
+
+# Simulation Output
+data.json
+config_aggressive.json
+config_conservative.json
