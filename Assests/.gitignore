@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Generated Data (DO NOT COMMIT)
+data.json
+data.json.tmp
+commands.json
+
+# IDE files
+.vscode/
+.idea/
