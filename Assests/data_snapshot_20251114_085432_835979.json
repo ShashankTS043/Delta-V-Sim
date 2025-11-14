@@ -1,0 +1,608 @@
+{
+  "race_status": {
+    "timestamp": "7:55.668",
+    "current_lap": 20,
+    "total_laps": 57,
+    "safety_car": "NONE"
+  },
+  "agents": [
+    {
+      "id": "Bearman",
+      "team": "Haas",
+      "rank": 1,
+      "position": [
+        152.6434155261506,
+        401.05736621046026
+      ],
+      "status": "RACING",
+      "lap_data": {
+        "current_lap": 20,
+        "last_lap_time": "0:25.893",
+        "fastest_lap_time": "0:00.728"
+      },
+      "vehicle_state": {
+        "battery_soc": 0.3208000000000036,
+        "aero_mode": "Z-MODE",
+        "mom_available": false,
+        "fuel_remaining_mj": 3000.0,
+        "tyre_compound": "medium",
+        "tyre_life": 1.0,
+        "on_cliff": false,
+        "mom_active": false,
+        "pit_stops_made": 0
+      }
+    },
+    {
+      "id": "Stroll",
+      "team": "AI_Team",
+      "rank": 2,
+      "position": [
+        152.66002015324838,
+        401.0640080612994
+      ],
+      "status": "RACING",
+      "lap_data": {
+        "current_lap": 20,
+        "last_lap_time": "0:25.893",
+        "fastest_lap_time": "0:00.728"
+      },
+      "vehicle_state": {
+        "battery_soc": 0.3208000000000036,
+        "aero_mode": "Z-MODE",
+        "mom_available": false,
+        "fuel_remaining_mj": 3000.0,
+        "tyre_compound": "medium",
+        "tyre_life": 1.0,
+        "on_cliff": false,
+        "mom_active": false,
+        "pit_stops_made": 0
+      }
+    },
+    {
+      "id": "Hulkenberg",
+      "team": "AI_Team",
+      "rank": 3,
+      "position": [
+        152.65459365838768,
+        401.06183746335506
+      ],
+      "status": "RACING",
+      "lap_data": {
+        "current_lap": 20,
+        "last_lap_time": "0:25.893",
+        "fastest_lap_time": "0:00.728"
+      },
+      "vehicle_state": {
+        "battery_soc": 0.3208000000000036,
+        "aero_mode": "Z-MODE",
+        "mom_available": false,
+        "fuel_remaining_mj": 3000.0,
+        "tyre_compound": "medium",
+        "tyre_life": 1.0,
+        "on_cliff": false,
+        "mom_active": false,
+        "pit_stops_made": 0
+      }
+    },
+    {
+      "id": "Tsunoda",
+      "team": "AI_Team",
+      "rank": 4,
+      "position": [
+        762.0093446634149,
+        105.70761095470364
+      ],
+      "status": "RACING",
+      "lap_data": {
+        "current_lap": 20,
+        "last_lap_time": "0:26.842",
+        "fastest_lap_time": "0:00.760"
+      },
+      "vehicle_state": {
+        "battery_soc": 0.22500000000000048,
+        "aero_mode": "Z-MODE",
+        "mom_available": false,
+        "fuel_remaining_mj": 3000.0,
+        "tyre_compound": "medium",
+        "tyre_life": 1.0,
+        "on_cliff": false,
+        "mom_active": false,
+        "pit_stops_made": 0
+      }
+    },
+    {
+      "id": "Ocon",
+      "team": "Haas",
+      "rank": 5,
+      "position": [
+        558.0534781846773,
+        780.0
+      ],
+      "status": "RACING",
+      "lap_data": {
+        "current_lap": 19,
+        "last_lap_time": "0:26.482",
+        "fastest_lap_time": "0:00.760"
+      },
+      "vehicle_state": {
+        "battery_soc": 0.1983333333333337,
+        "aero_mode": "Z-MODE",
+        "mom_available": false,
+        "fuel_remaining_mj": 3000.0,
+        "tyre_compound": "medium",
+        "tyre_life": 1.0,
+        "on_cliff": false,
+        "mom_active": false,
+        "pit_stops_made": 0
+      }
+    },
+    {
+      "id": "Albon",
+      "team": "AI_Team",
+      "rank": 6,
+      "position": [
+        558.0644736305709,
+        780.0
+      ],
+      "status": "RACING",
+      "lap_data": {
+        "current_lap": 19,
+        "last_lap_time": "0:26.482",
+        "fastest_lap_time": "0:00.760"
+      },
+      "vehicle_state": {
+        "battery_soc": 0.1983333333333337,
+        "aero_mode": "Z-MODE",
+        "mom_available": false,
+        "fuel_remaining_mj": 3000.0,
+        "tyre_compound": "medium",
+        "tyre_life": 1.0,
+        "on_cliff": false,
+        "mom_active": false,
+        "pit_stops_made": 0
+      }
+    },
+    {
+      "id": "Sargeant",
+      "team": "AI_Team",
+      "rank": 7,
+      "position": [
+        536.4488911376288,
+        771.8693346825772
+      ],
+      "status": "RACING",
+      "lap_data": {
+        "current_lap": 19,
+        "last_lap_time": "0:26.529",
+        "fastest_lap_time": "0:00.760"
+      },
+      "vehicle_state": {
+        "battery_soc": 0.14833333333333332,
+        "aero_mode": "Z-MODE",
+        "mom_available": false,
+        "fuel_remaining_mj": 3000.0,
+        "tyre_compound": "medium",
+        "tyre_life": 1.0,
+        "on_cliff": false,
+        "mom_active": false,
+        "pit_stops_made": 0
+      }
+    },
+    {
+      "id": "Sainz",
+      "team": "AI_Team",
+      "rank": 8,
+      "position": [
+        161.7334152327602,
+        669.5556920546003
+      ],
+      "status": "RACING",
+      "lap_data": {
+        "current_lap": 19,
+        "last_lap_time": "0:27.160",
+        "fastest_lap_time": "0:00.776"
+      },
+      "vehicle_state": {
+        "battery_soc": 0.07833333333333325,
+        "aero_mode": "Z-MODE",
+        "mom_available": false,
+        "fuel_remaining_mj": 3000.0,
+        "tyre_compound": "medium",
+        "tyre_life": 1.0,
+        "on_cliff": false,
+        "mom_active": false,
+        "pit_stops_made": 0
+      }
+    },
+    {
+      "id": "Ricciardo",
+      "team": "AI_Team",
+      "rank": 9,
+      "position": [
+        186.9424913255007,
+        414.7769965302003
+      ],
+      "status": "RACING",
+      "lap_data": {
+        "current_lap": 19,
+        "last_lap_time": "0:27.434",
+        "fastest_lap_time": "0:00.776"
+      },
+      "vehicle_state": {
+        "battery_soc": 0.19180000000000594,
+        "aero_mode": "Z-MODE",
+        "mom_available": false,
+        "fuel_remaining_mj": 3000.0,
+        "tyre_compound": "medium",
+        "tyre_life": 1.0,
+        "on_cliff": false,
+        "mom_active": false,
+        "pit_stops_made": 0
+      }
+    },
+    {
+      "id": "Verstappen",
+      "team": "AI_Team",
+      "rank": 10,
+      "position": [
+        287.2774139863207,
+        367.2774139863207
+      ],
+      "status": "CRASHED",
+      "lap_data": {
+        "current_lap": 19,
+        "last_lap_time": "0:27.683",
+        "fastest_lap_time": "0:00.776"
+      },
+      "vehicle_state": {
+        "battery_soc": 0.1918000000000063,
+        "aero_mode": "Z-MODE",
+        "mom_available": false,
+        "fuel_remaining_mj": 3000.0,
+        "tyre_compound": "medium",
+        "tyre_life": 1.0,
+        "on_cliff": false,
+        "mom_active": false,
+        "pit_stops_made": 0
+      }
+    },
+    {
+      "id": "Magnussen",
+      "team": "AI_Team",
+      "rank": 11,
+      "position": [
+        287.24721663733743,
+        367.24721663733743
+      ],
+      "status": "RACING",
+      "lap_data": {
+        "current_lap": 19,
+        "last_lap_time": "0:27.683",
+        "fastest_lap_time": "0:00.776"
+      },
+      "vehicle_state": {
+        "battery_soc": 0.1918000000000063,
+        "aero_mode": "Z-MODE",
+        "mom_available": false,
+        "fuel_remaining_mj": 3000.0,
+        "tyre_compound": "medium",
+        "tyre_life": 1.0,
+        "on_cliff": false,
+        "mom_active": false,
+        "pit_stops_made": 0
+      }
+    },
+    {
+      "id": "Drugovich",
+      "team": "AI_Team",
+      "rank": 12,
+      "position": [
+        287.26429223193634,
+        367.26429223193634
+      ],
+      "status": "RACING",
+      "lap_data": {
+        "current_lap": 19,
+        "last_lap_time": "0:27.683",
+        "fastest_lap_time": "0:00.776"
+      },
+      "vehicle_state": {
+        "battery_soc": 0.1918000000000063,
+        "aero_mode": "Z-MODE",
+        "mom_available": false,
+        "fuel_remaining_mj": 3000.0,
+        "tyre_compound": "medium",
+        "tyre_life": 1.0,
+        "on_cliff": false,
+        "mom_active": false,
+        "pit_stops_made": 0
+      }
+    },
+    {
+      "id": "Perez",
+      "team": "AI_Team",
+      "rank": 13,
+      "position": [
+        637.2255356950518,
+        359.58084822871115
+      ],
+      "status": "RACING",
+      "lap_data": {
+        "current_lap": 19,
+        "last_lap_time": "0:28.044",
+        "fastest_lap_time": "0:00.792"
+      },
+      "vehicle_state": {
+        "battery_soc": 0.5366666666666697,
+        "aero_mode": "Z-MODE",
+        "mom_available": false,
+        "fuel_remaining_mj": 3000.0,
+        "tyre_compound": "medium",
+        "tyre_life": 1.0,
+        "on_cliff": false,
+        "mom_active": false,
+        "pit_stops_made": 0
+      }
+    },
+    {
+      "id": "Leclerc",
+      "team": "AI_Team",
+      "rank": 14,
+      "position": [
+        637.2706537522181,
+        359.5470096858364
+      ],
+      "status": "RACING",
+      "lap_data": {
+        "current_lap": 19,
+        "last_lap_time": "0:28.044",
+        "fastest_lap_time": "0:00.792"
+      },
+      "vehicle_state": {
+        "battery_soc": 0.5366666666666697,
+        "aero_mode": "Z-MODE",
+        "mom_available": false,
+        "fuel_remaining_mj": 3000.0,
+        "tyre_compound": "medium",
+        "tyre_life": 1.0,
+        "on_cliff": false,
+        "mom_active": false,
+        "pit_stops_made": 0
+      }
+    },
+    {
+      "id": "Piastri",
+      "team": "AI_Team",
+      "rank": 15,
+      "position": [
+        637.2062551238456,
+        359.5953086571158
+      ],
+      "status": "RACING",
+      "lap_data": {
+        "current_lap": 19,
+        "last_lap_time": "0:28.044",
+        "fastest_lap_time": "0:00.792"
+      },
+      "vehicle_state": {
+        "battery_soc": 0.5366666666666697,
+        "aero_mode": "Z-MODE",
+        "mom_available": false,
+        "fuel_remaining_mj": 3000.0,
+        "tyre_compound": "medium",
+        "tyre_life": 1.0,
+        "on_cliff": false,
+        "mom_active": true,
+        "pit_stops_made": 0
+      }
+    },
+    {
+      "id": "Gasly",
+      "team": "AI_Team",
+      "rank": 16,
+      "position": [
+        637.2709371844671,
+        359.5467971116497
+      ],
+      "status": "RACING",
+      "lap_data": {
+        "current_lap": 19,
+        "last_lap_time": "0:28.044",
+        "fastest_lap_time": "0:00.792"
+      },
+      "vehicle_state": {
+        "battery_soc": 0.5366666666666697,
+        "aero_mode": "Z-MODE",
+        "mom_available": false,
+        "fuel_remaining_mj": 3000.0,
+        "tyre_compound": "medium",
+        "tyre_life": 1.0,
+        "on_cliff": false,
+        "mom_active": false,
+        "pit_stops_made": 0
+      }
+    },
+    {
+      "id": "Hamilton",
+      "team": "AI_Team",
+      "rank": 17,
+      "position": [
+        700.0,
+        162.73416453613143
+      ],
+      "status": "PITTING",
+      "lap_data": {
+        "current_lap": 19,
+        "last_lap_time": "0:28.234",
+        "fastest_lap_time": "0:00.792"
+      },
+      "vehicle_state": {
+        "battery_soc": 0.4849999999999982,
+        "aero_mode": "Z-MODE",
+        "mom_available": false,
+        "fuel_remaining_mj": 3000.0,
+        "tyre_compound": "medium",
+        "tyre_life": 1.0,
+        "on_cliff": false,
+        "mom_active": false,
+        "pit_stops_made": 0
+      }
+    },
+    {
+      "id": "Russell",
+      "team": "AI_Team",
+      "rank": 18,
+      "position": [
+        700.0,
+        162.7630730058558
+      ],
+      "status": "RACING",
+      "lap_data": {
+        "current_lap": 19,
+        "last_lap_time": "0:28.234",
+        "fastest_lap_time": "0:00.792"
+      },
+      "vehicle_state": {
+        "battery_soc": 0.4849999999999982,
+        "aero_mode": "Z-MODE",
+        "mom_available": false,
+        "fuel_remaining_mj": 3000.0,
+        "tyre_compound": "medium",
+        "tyre_life": 1.0,
+        "on_cliff": false,
+        "mom_active": false,
+        "pit_stops_made": 0
+      }
+    },
+    {
+      "id": "Alonso",
+      "team": "AI_Team",
+      "rank": 19,
+      "position": [
+        700.0,
+        162.71802916580805
+      ],
+      "status": "RACING",
+      "lap_data": {
+        "current_lap": 19,
+        "last_lap_time": "0:28.234",
+        "fastest_lap_time": "0:00.792"
+      },
+      "vehicle_state": {
+        "battery_soc": 0.4849999999999982,
+        "aero_mode": "Z-MODE",
+        "mom_available": false,
+        "fuel_remaining_mj": 3000.0,
+        "tyre_compound": "medium",
+        "tyre_life": 1.0,
+        "on_cliff": false,
+        "mom_active": false,
+        "pit_stops_made": 0
+      }
+    },
+    {
+      "id": "Bottas",
+      "team": "AI_Team",
+      "rank": 20,
+      "position": [
+        700.0,
+        162.76574528293406
+      ],
+      "status": "RACING",
+      "lap_data": {
+        "current_lap": 19,
+        "last_lap_time": "0:28.234",
+        "fastest_lap_time": "0:00.792"
+      },
+      "vehicle_state": {
+        "battery_soc": 0.4849999999999982,
+        "aero_mode": "Z-MODE",
+        "mom_available": false,
+        "fuel_remaining_mj": 3000.0,
+        "tyre_compound": "medium",
+        "tyre_life": 1.0,
+        "on_cliff": false,
+        "mom_active": false,
+        "pit_stops_made": 0
+      }
+    },
+    {
+      "id": "Zhou",
+      "team": "AI_Team",
+      "rank": 21,
+      "position": [
+        700.0,
+        162.71753822834617
+      ],
+      "status": "RACING",
+      "lap_data": {
+        "current_lap": 19,
+        "last_lap_time": "0:28.234",
+        "fastest_lap_time": "0:00.792"
+      },
+      "vehicle_state": {
+        "battery_soc": 0.4849999999999982,
+        "aero_mode": "Z-MODE",
+        "mom_available": false,
+        "fuel_remaining_mj": 3000.0,
+        "tyre_compound": "medium",
+        "tyre_life": 1.0,
+        "on_cliff": false,
+        "mom_active": false,
+        "pit_stops_made": 0
+      }
+    },
+    {
+      "id": "Norris",
+      "team": "AI_Team",
+      "rank": 22,
+      "position": [
+        750.3803448751953,
+        779.3914481996876
+      ],
+      "status": "RACING",
+      "lap_data": {
+        "current_lap": 18,
+        "last_lap_time": "0:27.968",
+        "fastest_lap_time": "0:00.807"
+      },
+      "vehicle_state": {
+        "battery_soc": 0.04166666666666738,
+        "aero_mode": "Z-MODE",
+        "mom_available": false,
+        "fuel_remaining_mj": 3000.0,
+        "tyre_compound": "medium",
+        "tyre_life": 1.0,
+        "on_cliff": true,
+        "mom_active": false,
+        "pit_stops_made": 0
+      }
+    },
+    {
+      "id": "Lawson",
+      "team": "AI_Team",
+      "rank": 23,
+      "position": [
+        750.3800316773984,
+        779.3919493161625
+      ],
+      "status": "RACING",
+      "lap_data": {
+        "current_lap": 18,
+        "last_lap_time": "0:27.968",
+        "fastest_lap_time": "0:00.807"
+      },
+      "vehicle_state": {
+        "battery_soc": 0.04166666666666738,
+        "aero_mode": "Z-MODE",
+        "mom_available": false,
+        "fuel_remaining_mj": 3000.0,
+        "tyre_compound": "medium",
+        "tyre_life": 1.0,
+        "on_cliff": false,
+        "mom_active": false,
+        "pit_stops_made": 0
+      }
+    }
+  ]
+}
